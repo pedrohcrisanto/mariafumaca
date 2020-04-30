@@ -11,7 +11,7 @@
     "bootstrap-daterangepicker": "^3.0.3",
     "cleave.js": "^1.4.7",
     "izitoast": "^1.4.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery.nicescroll": "^3.7.4",
     "popper.js": "^1.15.0",
     "select2": "^4.0.7-rc.0",
